@@ -1,5 +1,5 @@
 # DecodeLabs-Internship
-<div style="justify-content:center; margin:0 auto;">
+<div style="text-align:center;">
   <img src="https://github.com/Senura-Peiris/DecodeLabs-Internship/blob/main/logo.jpg" alt="decodelabs logo image" title="Decodelabs logo"/>
 </div>
 
