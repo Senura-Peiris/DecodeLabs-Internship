@@ -1,6 +1,8 @@
 # DecodeLabs-Internship
-<div style="text-align:center;">
-  <img src="https://github.com/Senura-Peiris/DecodeLabs-Internship/blob/main/logo.jpg" alt="decodelabs logo image" title="Decodelabs logo"/>
+<div style="display:flex; justify-content:center;">
+  <img src="https://github.com/Senura-Peiris/DecodeLabs-Internship/blob/main/logo.jpg" 
+       alt="decodelabs logo image" 
+       title="Decodelabs logo"/>
 </div>
 
  Internship period stated on 2025.05.10 it will complete on 2026.06.10 (Duration 04 weeks)
